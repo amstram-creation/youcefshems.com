@@ -59,7 +59,7 @@
           <span class="section-heading-lower">Discographie</span>
       </h2>
   <?php
-  foreach (array_reverse(require_once('discography_data.php')) as $single)
+  foreach (array_reverse(require_once('content/discography_data.php')) as $single)
   {
     ?>
     <div class="card mb-4">

@@ -62,6 +62,6 @@ return [
     'Décembre 2022',
     "Titre spécialement composé pour la coupe du monde 2022 au Qatar. Chanson reprise par les joueurs de l'équipe marocaine de football ainsi que par les supporters marocains.",
     'jwADDat7KYo',
-    null
+    '5rOsHhAMKFHsW6rGuvYNo4'
   ]
 ];

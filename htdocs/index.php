@@ -127,7 +127,7 @@
 
 <footer class=" text-faded text-center py-5">
     <div class="container rale">
-      <p class="m-0 small text-primary">Copyright &copy; Youcef Shems <?php echo date('Y');?></p>
+      <p class="m-0 small text-primary">&copy; Youcef Shems <?php echo date('Y');?></p>
       <p class="m-0 small text-primary">Réalisé par <a href="https://mabel.page">mabel.page</a></p>
       </div>
 </footer>
